@@ -113,7 +113,6 @@ const data = {
     ]
 }
 
-
 /**
  *
  * Построение дерева
@@ -158,7 +157,6 @@ function buildTree(data, parent) {
                 li.appendChild(nestedUl);
             }
         }
-
 
         ul.appendChild(li);
     });
