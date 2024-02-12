@@ -1,0 +1,14 @@
+#tree {
+    width: fit-content;
+}
+
+.indent {
+    margin-left: 20px;
+}
+.list-group-item li {
+    cursor: pointer;
+}
+.caret {
+    float: left;
+    margin-right: 5px;
+}
